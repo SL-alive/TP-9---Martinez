@@ -15,3 +15,6 @@ Las principales entidades son la tabla clientes, la tabla facturas y la tabla de
 Se llegó hasta la segunda normalización, ya que se evitan los problemas tanto de la primera normalización (repetir datos), como los de la segunda (dependencias parciales). No llega a la tercera normalización, ya que hay partes del código que dependen fuertemente en otras partes.
 
 El diagrama está junto a los otros archivos del github.
+
+
+Cómo usar: importar en SSMS y ejecutar
